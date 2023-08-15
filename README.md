@@ -1,2 +1,3 @@
 # GoogleMyMaps
-All projects related to Google My Maps
+Created a vizualization in a custom map using Google My Maps
+
